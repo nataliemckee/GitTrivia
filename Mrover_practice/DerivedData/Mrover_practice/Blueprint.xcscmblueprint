@@ -1,0 +1,23 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "92014960145E4ACF8398479539FE76D00929EB8A",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "92014960145E4ACF8398479539FE76D00929EB8A" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "A21871A8-A139-4ED0-9AFB-9C80DD4455A5",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "92014960145E4ACF8398479539FE76D00929EB8A" : "GitTrivia\/"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Mrover_practice",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Mrover_practice\/Mrover_practice.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/nataliemckee\/GitTrivia.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "92014960145E4ACF8398479539FE76D00929EB8A"
+    }
+  ]
+}
